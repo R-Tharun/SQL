@@ -61,4 +61,4 @@ To run the queries and interact with the database, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Jeffrin-Webster/8-Week-SQL-Challenge
+   git clone https://github.com/R-Tharun/SQL.git
